@@ -31,6 +31,4 @@
     </style>
     <style name="AppTheme" parent="AppTheme.Base">
     </style>
-    <style name="AppTheme.Detail" parent="AppTheme">
-    </style>
 </resources>
